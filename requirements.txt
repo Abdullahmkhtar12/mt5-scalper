@@ -1,4 +1,8 @@
-MetaTrader5==5.0.5200
+python-telegram-bot[job-queue]==21.10
+python-dotenv==1.0.1
+pandas==2.2.3
+requests==2.32.3
+
 python-telegram-bot[job-queue]==21.10
 python-dotenv==1.0.1
 pandas==2.2.3
